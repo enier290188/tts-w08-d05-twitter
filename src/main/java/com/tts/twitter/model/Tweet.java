@@ -97,5 +97,5 @@ public class Tweet {
     // message + ", tags=" + tags
     // + ", user=" + user + "]";
     // }
-
 }
+

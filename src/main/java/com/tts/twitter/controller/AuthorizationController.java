@@ -14,7 +14,6 @@ import com.tts.twitter.service.UserService;
 
 @Controller
 public class AuthorizationController {
-
     @Autowired
     private UserService userService;
 
@@ -43,5 +42,4 @@ public class AuthorizationController {
         }
         return "registration";
     }
-
 }
